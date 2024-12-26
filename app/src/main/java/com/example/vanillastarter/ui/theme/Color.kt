@@ -1,4 +1,4 @@
-package com.example.vanillastarter.ui.theme
+package com.example.uas_mobcomp_test.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
